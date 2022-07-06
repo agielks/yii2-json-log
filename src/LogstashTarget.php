@@ -4,7 +4,7 @@
  * @copyright Copyright (c) Agiel K. Saputra
  */
 
-namespace agielks\yii2\log\json;
+namespace agielks\yii2\jsonlog;
 
 use Exception;
 use yii\log\Dispatcher;
